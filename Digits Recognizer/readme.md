@@ -15,7 +15,7 @@ The model has achieved an accuracy of 97.7% on the testing dataset.
 
 <h2>Technical Details</h2>
 - Programming Language: Python
-- Framework: Keras
+- Framework: Tensorflow, Keras
 - Dataset: Keras-built-in dataset
 - Model Architecture: ANN with one hidden layer
 - Accuracy: 97.7%
